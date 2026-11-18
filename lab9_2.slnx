@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lab9_2/lab9_2.vcxproj" />
+  <Project Path="unit9.2/unit9.2.vcxproj" />
+</Solution>
